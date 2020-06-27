@@ -1,5 +1,8 @@
 # Write your solution here
-if true
+
+current_time = Time.now
+
+if Time.now == Even
   puts "Even!"
 else
   puts"Odd!"
